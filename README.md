@@ -12,3 +12,5 @@ EMAIL_USERNAME=
 EMAIL_PASSWORD=
 FROM_EMAIL=Sartia
 ```
+
+<b>3 problem solving questions is in ./problemsolving.js file</b>
